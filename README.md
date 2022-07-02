@@ -1,8 +1,9 @@
 # Procedural Room Generator
 Simple and easy to use and adapt room generator
 
-![Dungeon](https://user-images.githubusercontent.com/48390920/177016351-e67ede97-72a3-45f7-9e17-999762132007.png)
-![Sci Fi](https://user-images.githubusercontent.com/48390920/177016354-c0f3d10d-40c7-4cd8-a261-a0e5b9413b96.png)
+![Sci Fi new](https://user-images.githubusercontent.com/48390920/177016474-43c1552c-6d15-4932-a2ce-a54dae4e4614.png)
+
+![Dungeon new](https://user-images.githubusercontent.com/48390920/177016475-115b2384-654a-4b65-863a-e8b24cff6b6c.png)
 
 This is a small, simple to use and adapt Room generator.
 The whole system is based on a grid approach and ScripttablesObjects for the decorations.

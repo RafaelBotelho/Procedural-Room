@@ -348,8 +348,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e126a59955b4749448c73ae2a47ea30f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _xSize: 5
-  _zSize: 5
+  _width: 5
+  _height: 1
+  _depth: 5
+  _originTransform: {fileID: 1118755134}
   _tileSize: 8
   _numberOfDoors: 2
   _numberOfWindows: 2
@@ -361,9 +363,7 @@ MonoBehaviour:
   _wallDecorationOffSet: 0
   _propDecorationOffSet: 0
   _roomSeed: 0
-  _DecorationSeed: 0
-  _originTransform: {fileID: 1118755134}
-  _originPosition: {x: 0, y: 0, z: 0}
+  _decorationSeed: 0
   _floors:
   - {fileID: 125426, guid: 64cb684f38ab4e547a77225cd823cf62, type: 3}
   _walls:
@@ -405,6 +405,9 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6fa7b5b780366d54cb73c427b600d66c, type: 2}
   - {fileID: 11400000, guid: 0787bffe9a999c0419fee1e545f43779, type: 2}
   - {fileID: 11400000, guid: 42ea53cdbffd5134983867c1cab0cf8c, type: 2}
+  _floorParent: {fileID: 0}
+  _wallParent: {fileID: 0}
+  _decorationParent: {fileID: 0}
 --- !u!1 &1590155881
 GameObject:
   m_ObjectHideFlags: 0
